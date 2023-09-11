@@ -1,0 +1,56 @@
+[
+  {
+    "Date": "2023-01-01",
+    "Facility": "Facility A",
+    "Observed (mt)": 100,
+    "Factor Based (mt)": 90
+  },
+  {
+    "Date": "2023-02-01",
+    "Facility": "Facility A",
+    "Observed (mt)": 110,
+    "Factor Based (mt)": 85
+  },
+  {
+    "Date": "2023-03-01",
+    "Facility": "Facility A",
+    "Observed (mt)": 95,
+    "Factor Based (mt)": 88
+  },
+  {
+    "Date": "2023-01-01",
+    "Facility": "Facility B",
+    "Observed (mt)": 120,
+    "Factor Based (mt)": 100
+  },
+  {
+    "Date": "2023-02-01",
+    "Facility": "Facility B",
+    "Observed (mt)": 115,
+    "Factor Based (mt)": 98
+  },
+  {
+    "Date": "2023-03-01",
+    "Facility": "Facility B",
+    "Observed (mt)": 130,
+    "Factor Based (mt)": 105
+  },
+  {
+    "Date": "2023-01-01",
+    "Facility": "Facility C",
+    "Observed (mt)": 90,
+    "Factor Based (mt)": 80
+  },
+  {
+    "Date": "2023-02-01",
+    "Facility": "Facility C",
+    "Observed (mt)": 85,
+    "Factor Based (mt)": 75
+  },
+  {
+    "Date": "2023-03-01",
+    "Facility": "Facility C",
+    "Observed (mt)": 92,
+    "Factor Based (mt)": 78
+  }
+]
