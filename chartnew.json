@@ -1,0 +1,25 @@
+{
+  "chart_type": "bar",
+  "data": {
+    "labels": ["Data Pipeline 1", "Data Pipeline 2", "Dependency Service", "Data Dependency Graph"],
+    "datasets": [
+      {
+        "label": "Number of Events Processed",
+        "data": [500, 750, 250, 200],
+        "backgroundColor": ["blue", "green", "orange", "red"]
+      }
+    ]
+  },
+  "options": {
+    "scales": {
+      "y": {
+        "beginAtZero": true
+      }
+    },
+    "plugins": {
+      "legend": {
+        "display": false
+      }
+    }
+  }
+}
